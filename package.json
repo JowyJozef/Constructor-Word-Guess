@@ -8,17 +8,17 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/NVK2016/Constructor-Word-Guess.git"
+      "url": "git+https://github.com/JowyJozef/Constructor-Word-Guess.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/NVK2016/Constructor-Word-Guess/issues"
+      "url": "https://github.com/JowyJozef/Constructor-Word-Guess/issues"
     },
-    "homepage": "https://github.com/NVK2016/Constructor-Word-Guess#readme",
+    "homepage": "https://github.com/JowyJozef/Constructor-Word-Guess#readme",
     "dependencies": {
       "chalk": "^2.4.2",
       "inquirer": "^6.2.2"
     }
-  }
+}
